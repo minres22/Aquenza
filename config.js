@@ -1,1 +1,1 @@
-window.AQUENZA_CONFIG={SUPABASE_URL:"PASTE_SUPABASE_PROJECT_URL_HERE",SUPABASE_ANON_KEY:"PASTE_SUPABASE_ANON_KEY_HERE"};
+window.AQUENZA_CONFIG={SUPABASE_URL:"https://agrymhbsflshjcrzpksj.supabase.co/rest/v1/",SUPABASE_ANON_KEY:"agrymhbsflshjcrzpksj"};
